@@ -1,6 +1,16 @@
-body{ background-image: url(https://drive.google.com/file/d/1C6khcfqmyTNhyvQdR_6SwtQcpwlupE_b/view);}
+body{ 
+    background-image: url(https://drive.google.com/file/d/1C6khcfqmyTNhyvQdR_6SwtQcpwlupE_b/view);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
 
 p{ font-weight:bold;
     font-family:sans serif; 
     
      }
+
+
+h1 {align-self: center }
