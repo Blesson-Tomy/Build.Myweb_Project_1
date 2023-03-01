@@ -7,8 +7,15 @@ body{
     font-family: sans-serif;
 }
 
-p{ font-weight:bold;
-    font-family:sans serif; 
+.loginbox p{ 
+    justify-items: center;
+    align-items: center;
+    margin-top: 1px;
+    
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    margin-bottom: 2px;
     
      }
 
@@ -29,5 +36,13 @@ h1 {align-self: center }
     transform: translate(-50%, -50%);
     box-sizing: border-box;
     padding: 10px 30px ;
+   
+}
+
+.loginbox input{
+    margin-top: 1px;
+    font-size: xx-small;
+    width: 100%;
+    margin-bottom: 1px;
     
 }
