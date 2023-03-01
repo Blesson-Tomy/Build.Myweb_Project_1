@@ -17,4 +17,17 @@ h1 {align-self: center }
 
 .loginbox {
     line-height: normal;
+    border-radius: 10px;
+    font-size: xx-small;
+    width: 240px;
+    height: 270px;
+    background: rgb(255, 251, 251);
+    color: rgb(6, 6, 6);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 10px 30px ;
+    
 }
